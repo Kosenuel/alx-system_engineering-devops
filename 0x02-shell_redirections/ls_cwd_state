@@ -1,0 +1,23 @@
+total 72
+drwxr-xr-x 2 root root 4096 Mar  9 11:36 .
+drwxr-xr-x 5 root root  127 Mar  9 03:44 ..
+---x------ 1 root root   31 Mar  9 07:06 0-hello_world
+-rw-r--r-- 1 root root   30 Mar  9 09:38 1
+-rwxr--r-- 1 root root   28 Mar  9 07:28 1-confused_smiley
+-rwxr--r-- 1 root root   28 Mar  9 08:45 2-hellofile
+-rwxr--r-- 1 root root   39 Mar  9 08:49 3-twofiles
+-rwxr--r-- 1 root root   35 Mar  9 08:53 4-lastlines
+-rwxr--r-- 1 root root   35 Mar  9 08:58 5-firstlines
+-rwxr--r-- 1 root root   36 Mar  9 10:22 6-third_line
+-rwxr--r-- 1 root root   93 Mar  9 11:20 7-file
+-rwxr--r-- 1 root root   34 Mar  9 11:34 8-cwd_state
+-rw-r--r-- 1 root root   12 Mar  9 11:14 '\*\\'"Best School"\'\\*$\?\*\*\
+
+*\*\*\:)'
+-rw-r--r-- 1 root root   12 Mar  9 11:20 '\*\\'"Best School"\'\\*$\?\*\*\*\*\*\:)'
+-rw-r--r-- 1 root root   12 Mar  9 10:54 \\'"Best School"\'\$\?\\\*:)
+-rw-r--r-- 1 root root  813 Mar  9 10:17 iacta
+-rw-r--r-- 1 root root  811 Mar  9 09:53 iactass
+-rw-r--r-- 1 root root    0 Mar  9 11:36 ls_cwd_state
+-rw-r--r-- 1 root root   14 Mar  9 06:55 README.md
+-rwxr--r-- 1 root root   13 Mar  9 08:55 waiting_to_be_scripted_upon
